@@ -16,10 +16,3 @@
 - **Direct Database Access**: Shows how to fetch data in server react components by directly accessing the database without using APIs.
 - **Component Relations**: Addresses handling relations between server and child components effectively.
 
-### Reference Video [Code With Antonio]
-
-### Deployment
-  [Go to Rent Properties](https://clone-rent-properties.vercel.app/).
-
-[//]: #
-[Code With Antonio]: <https://www.youtube.com/watch?v=c_-b_isI4vg&ab_channel=CodeWithAntonio>
